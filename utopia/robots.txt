@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tim777z.github.io/utopia/sitemap.xml
